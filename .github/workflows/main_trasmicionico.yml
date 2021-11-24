@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'trasmicionICO'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_277585021CF34B61AE594D909613A92F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_035769A43E824F39A5AAB25DDAE53F2B }}
           package: .
