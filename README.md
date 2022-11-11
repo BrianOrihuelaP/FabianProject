@@ -6,7 +6,7 @@ Página elabrodada para el sexto semestre de la carrera Ing. en Computación de 
 - - Felipe Reyes Miguel
 Esta página pretende ser un refuerzo para el curso de transmición de datos de semestres anteriores, para así poder darles un apoyo en sus materias de redes.
 
--  Link a la pagina: "https://brianorihuelap.github.io/FabianProject/"
+-  Link a la pagina: "https://mango-sky-087231410.2.azurestaticapps.net"
 
  La arquitectura de la pagina se realizo con ayuda de:
 - - Html.
